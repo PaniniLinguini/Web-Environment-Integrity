@@ -1,12 +1,5 @@
-# Web Environment Integrity API
+# Player tip
 
-This repository details the proposal to add a new API for determining the integrity
-of web environments:
+## You need to kill yourself, NOW!
 
-```js
-const attestation = await navigator.getEnvironmentIntegrity("...");
-```
-
-The [explainer](./explainer.md) goes gives a high level overview of the proposal.
-
-The [spec](https://rupertbenwiser.github.io/Web-Environment-Integrity/) currently describes how this is being prototyped in Chromium.
+![image](https://github.com/PaniniLinguini/Web-Environment-Integrity/assets/135870218/f61e5d3c-d113-4a69-a1b1-0134768ca38a)
